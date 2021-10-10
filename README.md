@@ -3,7 +3,7 @@
 
 
  
-[![GitHub followers](https://img.shields.io/github/followers/Fr3shBrain .svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Fr3shBrain)
+[![GitHub followers](https://img.shields.io/github/followers/miraykaymak.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Fr3shBrain)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-aylan%C3%A7-58972517b/)
 [![Gmail](https://img.shields.io/badge/-gmail-222222?style=flat&logo=gmail&logoColor=dark-blue)](mailto:aylanc.onur@gmail.com)
 
@@ -32,7 +32,7 @@
 <hr/>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshBrain)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fr3shBrain)
 
 
 
